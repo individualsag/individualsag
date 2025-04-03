@@ -15,7 +15,7 @@
 - **Mastodon/Fosstodon** (Decentralized social network, FOSS-friendly)  
 - **GitHub/GitLab** (Showcasing projects, collaboration)  
 - **PeerTube** (Decentralized video sharing, for tech talks, etc.)  
-- **WriteFreely/Plume** (Self-hosted blogging platforms)  
+- **WriteFreely/Plume** (Self-hosted blogging [platforms](https://medium.com/@individualsag/personal-opinion-on-the-youtube-playlists-4213687ca99a))  
 
 
 ### **1. Project Title & Badge Icons**  
