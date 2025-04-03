@@ -13,7 +13,7 @@
 
 ### **Good Free/Open-Source Alternatives to LinkedIn**
 - **Mastodon/Fosstodon** (Decentralized social network, FOSS-friendly)  
-- **GitHub/GitLab** (Showcasing projects, collaboration)  
+- **GitHub/GitLab** (Showcasing projects, [collaboration](https://docs.google.com/document/d/1cxcqFJoZZHbLdTXSZIVQe9WiWxXF0rR_kN6FPUq-TzQ/edit?usp=sharing))  
 - **PeerTube** (Decentralized video sharing, for tech talks, etc.)  
 - **WriteFreely/Plume** (Self-hosted blogging [platforms](https://medium.com/@individualsag/personal-opinion-on-the-youtube-playlists-4213687ca99a))  
 
